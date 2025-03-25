@@ -91,14 +91,14 @@ tương tự cũng làm như vậy để tạo các bảng theo yêu cầuu đ�
 
 
 Để tạo khóa ngoại ta thực hiện các bước sau :
-Trongcơ sở dữ liệu, nhấp chuột phải vào bảng mà bạn muốn tạo khóa ngoại (bảng con)->Chọn Relationships
+Trongcơ sở dữ liệu nhấp chuột phải vào bảng mà bạn muốn tạo khóa ngoại (bảng con)->Chọn Relationships
 
 ![Screenshot 2025-03-25 165901](https://github.com/user-attachments/assets/32c15479-65d9-4884-b7bb-0fa9736de3db)
 
 
 xuất hiện hộp thoại Foreign Key Relationships-> nhấp vào Add .Trong phần Tables and Columns Specification-> nhấp vào nút dấu ba chấm (...) bên cạnh "Tables and Columns Specification.
 
-![image](https://github.com/user-attachments/assets/ce76b959-2231-4662-9b91-c8dd30f7f441)
+![image](https://github.com/user-attachments/assets/ce76b959-2231-4662-9b91-c8dd30f7f441) 
 
 Trong hộp thoại "Tables and Columns", chọn bảng chính và cột khóa chính tương ứng. 
 
