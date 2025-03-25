@@ -90,6 +90,55 @@ tương tự cũng làm như vậy để tạo các bảng theo yêu cầuu đ�
 ![Screenshot 2025-03-25 164746](https://github.com/user-attachments/assets/10ee6c67-1f05-4d00-bf2c-3e96c1be3b69)
 
 
+Để tạo khóa ngoại ta thực hiện các bước sau :
+Trongcơ sở dữ liệu, nhấp chuột phải vào bảng mà bạn muốn tạo khóa ngoại (bảng con)->Chọn Relationships
+
+![Screenshot 2025-03-25 165901](https://github.com/user-attachments/assets/32c15479-65d9-4884-b7bb-0fa9736de3db)
+
+
+xuất hiện hộp thoại Foreign Key Relationships-> nhấp vào Add .Trong phần Tables and Columns Specification-> nhấp vào nút dấu ba chấm (...) bên cạnh "Tables and Columns Specification.
+
+![image](https://github.com/user-attachments/assets/ce76b959-2231-4662-9b91-c8dd30f7f441)
+
+Trong hộp thoại "Tables and Columns", chọn bảng chính và cột khóa chính tương ứng. 
+
+![image](https://github.com/user-attachments/assets/cdc86e75-8205-4f7d-baf8-e68641788f02)
+
+Trong đó Primary key table là bảng chính với Magv là khóa chính và foreign key table là bảng tham chiếu với Magv làm khóa ngoại
+
+![image](https://github.com/user-attachments/assets/d443d6ec-5374-42ef-a3d0-67e1282c4243) 
+
+Lưu ý :Đảm bảo rằng kiểu dữ liệu của cột khóa ngoại trong bảng con phải khớp với kiểu dữ liệu của cột khóa chính trong bảng chính ví dụ cả hai đều cùng nvarchar(10)
+
+Tiếp theo nhấp "OK" để đóng hộp thoại "Tables and Columns".
+
+![image](https://github.com/user-attachments/assets/98ce5808-4814-40f8-b434-d107e2b8a5f4)
+
+Tên của ràng buộc khóa ngoại là Foreign Key Constraint 
+
+Trong hộp thoại "Foreign Key Relationships" có thể đặt tên cho mối quan hệ khóa ngoại, chọn các quy tắc cập nhật và xóa
+
+Nhấp "Close" để đóng hộp thoại "Foreign Key Relationships".
+
+Cuối cùng nhấp vào nút "Save" trên thanh công cụ hoặc nhấn Ctrl+S để lưu sơ đồ cơ sở dữ liệu giao diện tương tự sẽ xuất hiện 
+
+![Screenshot 2025-03-25 143904](https://github.com/user-attachments/assets/5b8791be-0cf8-4eb8-b97e-13949c30d840)
+
+Đặt tên cho sơ đồ và nhấp "OK" để hoàn thành khóa ngoại 
+
+Tương tự như vậy đối với các khóa ngoại còn lại đều làm như vậy 
+
+![Screenshot 2025-03-25 143842](https://github.com/user-attachments/assets/99877af9-cf1f-496d-8e26-8e6a4afc4480)
+
+![Screenshot 2025-03-25 143420](https://github.com/user-attachments/assets/a8659566-3b4c-4605-9ea2-c6f10e975cce)
+
+![Screenshot 2025-03-25 142548](https://github.com/user-attachments/assets/52125746-6dc2-4349-90e8-116a31f1907a)
+
+![Screenshot 2025-03-25 143306](https://github.com/user-attachments/assets/0950aaad-8eff-4823-89b3-9c5386a82e5c)
+
+
+
+
 
 
 
