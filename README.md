@@ -50,4 +50,12 @@ Bước đầu tạo cơ sở dữ liệu quản lý sinh viên
 ![Screenshot 2025-03-24 210419](https://github.com/user-attachments/assets/401cab4d-50cd-4497-b925-781b6f00bbc5)
 trong đó:Database name (tên csdl_QLSV)
          default là quyền sở hữu csdl thuộc về người tạo database
+Sau khi tạo csdl nó sẽ xuất hiện bên trái giao diện sql tiếp đó kích chuột phải chọn tables->chuột phải tiếp chọn new->chọn table để tạo các bảng
+![Screenshot 2025-03-25 154753](https://github.com/user-attachments/assets/fde69ff2-9be3-4091-b21d-083cf11caa0e)
+Xuất hiện giao diện tạo bảng nhập các thuộc tính của bảng rồi ctrl+S để lưu tên bảng vd như bảng giaovien
+![Screenshot 2025-03-25 162611](https://github.com/user-attachments/assets/4f3685ec-dbc3-4fe6-8145-06b6639f6d3d)
+
+![Screenshot 2025-03-24 223325](https://github.com/user-attachments/assets/01ceab71-6542-41b8-8562-8bcf891d552d)
+![Screenshot 2025-03-25 162611](https://github.com/user-attachments/assets/349dc615-8035-4cb9-9f09-2bf696f996c5)
+
          
