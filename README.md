@@ -47,12 +47,17 @@ Chú ý:
 
 
 Bước đầu tạo cơ sở dữ liệu quản lý sinh viên
+
 ![Screenshot 2025-03-24 210419](https://github.com/user-attachments/assets/401cab4d-50cd-4497-b925-781b6f00bbc5)
-trong đó:Database name (tên csdl_QLSV)
-         default là quyền sở hữu csdl thuộc về người tạo database
+
+trong đó:Database name (tên csdl_QLSV) và default là quyền sở hữu csdl thuộc về người tạo database
+         
 Sau khi tạo csdl nó sẽ xuất hiện bên trái giao diện sql tiếp đó kích chuột phải chọn tables->chuột phải tiếp chọn new->chọn table để tạo các bảng
+
 ![Screenshot 2025-03-25 154753](https://github.com/user-attachments/assets/fde69ff2-9be3-4091-b21d-083cf11caa0e)
+
 Xuất hiện giao diện tạo bảng nhập các thuộc tính và kiểu dữ liệu của bảng rồi ctrl+S->nhập tên bảng->chọn ok để lưu tên bảng vd như bảng giaovien
+
 ![Screenshot 2025-03-25 162611](https://github.com/user-attachments/assets/4f3685ec-dbc3-4fe6-8145-06b6639f6d3d)
 
 ![Screenshot 2025-03-24 223325](https://github.com/user-attachments/assets/01ceab71-6542-41b8-8562-8bcf891d552d)
@@ -60,19 +65,27 @@ Xuất hiện giao diện tạo bảng nhập các thuộc tính và kiểu dữ
 ![Screenshot 2025-03-25 162611](https://github.com/user-attachments/assets/349dc615-8035-4cb9-9f09-2bf696f996c5)
 
 tương tự cũng làm như vậy để tạo các bảng theo yêu cầuu đề bài :Sinh vien,Lop,Gvcn,Lopsv,Bomon,Khoa,Monhoc,Lophp,DKMH bên dưới đây là các hình ảnh minh họa
+
 ![Screenshot 2025-03-25 152236](https://github.com/user-attachments/assets/bb1f29ae-0cca-46f4-873b-90b71ac5a54a)
+
 
 ![Screenshot 2025-03-24 230453](https://github.com/user-attachments/assets/47272550-2760-4425-800c-2a2a61844b2b)
 
+
 ![Screenshot 2025-03-24 225914](https://github.com/user-attachments/assets/b57d56cc-e75d-42e9-b30c-fe559d890314)
+
 
 ![Screenshot 2025-03-24 225148](https://github.com/user-attachments/assets/54d67826-d235-4251-bf80-bf160b2be947)
 
+
 ![Screenshot 2025-03-24 221544](https://github.com/user-attachments/assets/cf6d487e-b0c7-4b44-b0ec-5b82c1d255f2)
+
 
 ![Screenshot 2025-03-25 164333](https://github.com/user-attachments/assets/436038e8-904c-449e-94d6-13482ef8b237)
 
+
 ![Screenshot 2025-03-25 164647](https://github.com/user-attachments/assets/f96d5515-c159-487b-b058-a2ad84288eca)
+
 
 ![Screenshot 2025-03-25 164746](https://github.com/user-attachments/assets/10ee6c67-1f05-4d00-bf2c-3e96c1be3b69)
 
