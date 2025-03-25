@@ -48,4 +48,4 @@ Chú ý:
 
 Bước đầu tạo cơ sở dữ liệu quản lý sinh viên
 ![Screenshot 2025-03-24 210419](https://github.com/user-attachments/assets/6a46635a-b371-40cd-96ae-6d7c4d36d486)
-trong đó
+trong đó:Database name (tên csdl_QLSV
