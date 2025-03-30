@@ -55,3 +55,28 @@ Bên cạnh đó, sẽ có điểm thưởng 10đ cho sv :  🎁
 2. Hỏi câu hỏi làm thầy khó trả lời.
 
 ---NHẮC LẠI THỜI HẠN DEADLINE: 23H59 NGÀY 30/03/2025---
+
+
+1. Sửa bảng DKMH và bảng Điểm từ bài tập 2 để có các bảng như yêu cầu.
+
+*)Sửa bảng DKMH theo yêu cầu :
+*)Tạo bảng điểm 
+2. Nhập dữ liệu demo cho các bảng (nhập có kiểm soát từ tính năng Edit trên UI của mssm)
+*)Dữ liệu demo bảng Sinhvien
+*)Dữ liệu demo bảng Lop(lop1): Đặt Unique cho tenLop để tránh sự trùng lặp
+Cảnh báo khi hệ thống phát hiện sự trùng lặp
+*)Dữ liệu demo bảng Gvcn.
+*)Dữ liệu demo bảng Lopsv
+*)Dữ liệu demo bảng Giaovien
+*)Dữ liệu demo bảng Bomon
+*)Dữ liệu demo bảng Khoa
+*)Dữ liệu demo bảng Monhoc
+*)Dữ liệu demo bảng Lophp
+*)Dữ liệu demo bảng DKMH
+*)Dữ liệu demo bảng Diem
+
+
+3. Viết lệnh truy vấn để: Tính được điểm thành phần của 1 sinh viên đang học tại 1 lớp học phần.
+
+*)Lệnh truy vấn tính điểm thành phần của 1 sinh viên.
+*)Thao tác tạo diagram mô tả các PK, FK của db.
