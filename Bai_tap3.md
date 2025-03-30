@@ -60,7 +60,21 @@ Bên cạnh đó, sẽ có điểm thưởng 10đ cho sv :  🎁
 1. Sửa bảng DKMH và bảng Điểm từ bài tập 2 để có các bảng như yêu cầu.
 
 *)Sửa bảng DKMH theo yêu cầu :
+![Screenshot 2025-03-30 134200](https://github.com/user-attachments/assets/d0e16572-4724-42b3-b57d-b42cd4113226)
+ sửa bảng DKMH theo yêu cầu và set up khóa chính
+ ![Screenshot 2025-03-30 140316](https://github.com/user-attachments/assets/fbd0061c-5504-4c10-91e7-cb51e164dc1c)
+thiết lập điều kiện ,kích chuột phải xuất hiện hộp thoại và thực hiện các bước 1,2,3 như hình
 *)Tạo bảng điểm 
+kích chuột phải vào tables chọn new chọn table để tạo bảng thêm các trường và thiết lập khóa chính
+![image](https://github.com/user-attachments/assets/d89962b0-2b29-46fb-9ba4-e9fdd490257e)
+
+thiết lập điều kiệnh như bảng DKMH
+![Screenshot 2025-03-30 221913](https://github.com/user-attachments/assets/7097259b-ccca-4be4-86e4-a5e2b80553c8)
+
+tạo khóa phụ liên kết giữa bảng điểm và DKMH như bt2
+![Screenshot 2025-03-30 221307](https://github.com/user-attachments/assets/acd32a5d-bbc5-447c-81e5-a0c3d096ed05)
+
+
 2. Nhập dữ liệu demo cho các bảng (nhập có kiểm soát từ tính năng Edit trên UI của mssm)
 *)Dữ liệu demo bảng Sinhvien
 *)Dữ liệu demo bảng Lop(lop1): Đặt Unique cho tenLop để tránh sự trùng lặp
