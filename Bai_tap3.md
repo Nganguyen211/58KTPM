@@ -75,22 +75,69 @@ tạo khóa phụ liên kết giữa bảng điểm và DKMH như bt2
 ![Screenshot 2025-03-30 221307](https://github.com/user-attachments/assets/acd32a5d-bbc5-447c-81e5-a0c3d096ed05)
 
 
-2. Nhập dữ liệu demo cho các bảng (nhập có kiểm soát từ tính năng Edit trên UI của mssm)
-*)Dữ liệu demo bảng Sinhvien
-*)Dữ liệu demo bảng Lop(lop1): Đặt Unique cho tenLop để tránh sự trùng lặp
-Cảnh báo khi hệ thống phát hiện sự trùng lặp
-*)Dữ liệu demo bảng Gvcn.
+2.Nhập dữ liệu demo cho các bảng (nhập có kiểm soát từ tính năng Edit trên UI của mssm)
+
+*)Dữ liệu demo bảng Sinhvien 
+
+![image](https://github.com/user-attachments/assets/2483cc7c-f6b8-4fcb-8274-0decb05a6739)
+
+*)Dữ liệu demo bảng Lop(lop1): Đặt Unique cho tenLop để tránh sự trùng lặp cảnh báo khi hệ thống phát hiện sự trùng lặp
+
+![image](https://github.com/user-attachments/assets/079178c5-3cfe-49da-91b5-b043f7f8585a)
+
+ *)Dữ liệu demo bảng Gvcn
+ 
+![image](https://github.com/user-attachments/assets/6298887a-47fb-4727-9c91-608c4dc67f52)
+
 *)Dữ liệu demo bảng Lopsv
-*)Dữ liệu demo bảng Giaovien
-*)Dữ liệu demo bảng Bomon
-*)Dữ liệu demo bảng Khoa
-*)Dữ liệu demo bảng Monhoc
+
+![image](https://github.com/user-attachments/assets/9da860b7-6b75-4e20-8667-80d1c1988a9a)
+
+ *)Dữ liệu demo bảng Giaovien
+ 
+![image](https://github.com/user-attachments/assets/acda694e-833f-4822-a007-9238842c213c)
+
+ *)Dữ liệu demo bảng Bomon
+ 
+![image](https://github.com/user-attachments/assets/00814ed5-cfc7-4ef7-80d3-6e7eff9651a6)
+
+ *)Dữ liệu demo bảng Khoa 
+ 
+![image](https://github.com/user-attachments/assets/c7e39544-50bf-41dc-bb82-e59f0c36ab80)
+
+*)Dữ liệu demo bảng Monhoc 
+
+
+![image](https://github.com/user-attachments/assets/4ce853ee-a45a-4bb2-9a34-b97d18ce9fc6)
+
 *)Dữ liệu demo bảng Lophp
-*)Dữ liệu demo bảng DKMH
-*)Dữ liệu demo bảng Diem
 
+![image](https://github.com/user-attachments/assets/4b79dc54-078c-485e-955b-e55fcc07545b)
 
-3. Viết lệnh truy vấn để: Tính được điểm thành phần của 1 sinh viên đang học tại 1 lớp học phần.
+ *)Dữ liệu demo bảng DKMH
+ 
+![image](https://github.com/user-attachments/assets/a04a7d66-1bc9-4119-bf91-d996306711bd)
+
+ *)Dữ liệu demo bảng Diem
+ 
+![image](https://github.com/user-attachments/assets/50730811-c752-4f59-aa4c-a5cca132efdf)
+
+3.Viết lệnh truy vấn để: Tính được điểm thành phần của 1 sinh viên đang học tại 1 lớp học phần.
 
 *)Lệnh truy vấn tính điểm thành phần của 1 sinh viên.
+
+![image](https://github.com/user-attachments/assets/bacd4044-6fc6-403a-8d05-b4dde8944eab)
+
 *)Thao tác tạo diagram mô tả các PK, FK của db.
+
+![image](https://github.com/user-attachments/assets/d9e58400-ee25-4a5e-84d9-aa87551e4c36)
+
+Kích chuột phải vào database diagrams -> chọn new database diagram xuất hiện hộp thoại như bên dưới
+
+![image](https://github.com/user-attachments/assets/f1830ee6-3eaa-4e45-bb78-82c563408593)
+
+Tiếp tục chọn tất cả các bảng và ấn Add kết quả được 
+
+![image](https://github.com/user-attachments/assets/bb0a1182-13fc-44eb-acce-aaeca3631f97)
+
+
